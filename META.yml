@@ -1,5 +1,5 @@
 ---
-abstract: 'Perl stub for libsodium'
+abstract: 'Perl bindings for libsodium (NaCL) https://github.com/jedisct1/libsodium'
 author:
   - 'Academica Project Team <academica@cctest.wayne.edu>'
 build_requires:
@@ -18,4 +18,4 @@ no_index:
     - t
     - inc
 requires: {}
-version: 0.03
+version: 0.04
